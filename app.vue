@@ -108,12 +108,21 @@ useHead({
             grandiosen Ausblick über München!
           </p>
 
+          <p>Hast du Bock drauf? Dann jetzt direkt zuschlagen und kaufen:</p>
+
           <p>
-            Hast du Bock drauf? Dann trag deine Kontaktdaten ein und wir melden
-            uns sobald es etwas genaueres zum Wettkampf gibt ツ
+            <a
+              href="https://www.paypal.com/ncp/payment/M78QDRMBT5752"
+              class="button is-primary is-block"
+              >Ich will mein Early-Bird-Ticket haben!</a
+            >
+          </p>
+
+          <p>
+            <strong>Du hast keinerlei Risiko</strong> - falls der Wettkampf
+            nicht stattfindet, bekommst du das komplette Geld zurück.
           </p>
         </div>
-
       </div>
 
       <footer class="footer px-6">
