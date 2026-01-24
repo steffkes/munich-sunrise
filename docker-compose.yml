@@ -1,0 +1,11 @@
+services:
+  app:
+    image: node:23.8.0-alpine3.20
+    command: ["npm", "run", "dev", "--", "--host"]
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - 127.0.0.1:7800:3000
+    environment:
+      - AIRTABLE_API_KEY
