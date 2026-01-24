@@ -102,10 +102,10 @@ useHead({
 
         <div class="content my-6">
           <p>
-            Feuerwehr-Treppenlauf im höchsten Gebäude Münchens? Alles komplett
-            verglast - angefangen bei den Toiletten, natürlich auch die
-            Treppenhäuser und insbesondere der Zielbereich im 32. Stockwerk ..
-            mit einem grandiosen Ausblick über München!
+            Feuerwehr-Treppenlauf in den Sonnenaufgang? Alles komplett verglast
+            - angefangen bei den Toiletten, natürlich auch die Treppenhäuser und
+            insbesondere der Zielbereich im 32. Stockwerk .. mit einem
+            grandiosen Ausblick über München!
           </p>
 
           <p>
