@@ -119,24 +119,22 @@ useHead({
 
       <footer class="footer px-6">
         <div class="container">
-          <div class="columns">
-            <div class="column">
-              <div class="columns is-mobile">
-                <div class="column is-4">
-                  <img src="/images/stefan.jpg" alt="Bild Stefan Matheis" />
-                </div>
-                <div class="column">
-                  <p>Fragen? Anregungen? Presse. Sponsoring.</p>
-                  <p class="mt-4">
-                    <strong>Stefan Matheis</strong><br />
-                    <a href="mailto:stefan@mathe.is">✉️ stefan@mathe.is</a
-                    ><br />
-                    <a href="tel:004916097048114">📞 +49 160 970 48 114</a>
-                  </p>
-                </div>
-              </div>
+          <div class="columns is-mobile">
+            <div class="column is-4">
+              <img src="/images/stefan.jpg" alt="Bild Stefan Matheis" />
             </div>
-            <div class="column is-4 competitions">
+            <div class="column">
+              <p>Fragen? Anregungen? Presse. Sponsoring.</p>
+              <p class="mt-4">
+                <strong>Stefan Matheis</strong><br />
+                <a href="mailto:stefan@mathe.is">✉️ stefan@mathe.is</a><br />
+                <a href="tel:004916097048114">📞 +49 160 970 48 114</a>
+              </p>
+            </div>
+          </div>
+
+          <div class="columns">
+            <div class="column is-6 competitions">
               <div class="columns is-mobile">
                 <div class="column has-text-centered">
                   <a href="//www.schachmatt-ulm.de">
@@ -164,7 +162,7 @@ useHead({
                 </div>
               </div>
             </div>
-            <div class="column is-4 competitions">
+            <div class="column is-6 competitions">
               <div class="columns is-mobile">
                 <div class="column has-text-centered">
                   <a href="//www.fire-trail-nesselwang.de">
