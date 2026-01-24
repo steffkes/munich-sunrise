@@ -150,15 +150,17 @@ useHead({
                   </a>
                 </div>
                 <div class="column has-text-centered">
-                  <img
-                    src="/images/muensterturmlauf-ulm.svg"
-                    alt="Logo Münsterturmlauf Ulm"
-                  />
-                  <p class="has-text-centered">
-                    <span>Münsterturmlauf</span>
-                    <span>Ulm</span>
-                    <span class="tag mt-2 is-success">Fr, 22.05.26</span>
-                  </p>
+                  <a href="//muensterturmlauf-ulm.gelungen.es">
+                    <img
+                      src="/images/muensterturmlauf-ulm.svg"
+                      alt="Logo Münsterturmlauf Ulm"
+                    />
+                    <p class="has-text-centered">
+                      <span>Münsterturmlauf</span>
+                      <span>Ulm</span>
+                      <span class="tag mt-2 is-success">Fr, 22.05.26</span>
+                    </p>
+                  </a>
                 </div>
               </div>
             </div>
