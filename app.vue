@@ -114,7 +114,6 @@ useHead({
           </p>
         </div>
 
-        <InterestForm />
       </div>
 
       <footer class="footer px-6">
