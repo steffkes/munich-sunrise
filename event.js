@@ -2,7 +2,7 @@ export const event = {
   "@context": "https://schema.org",
   "@type": "SportsEvent",
   name: "Munich Sunrise",
-  description: "Feuerwehr-Treppenlauf im höchsten Gebäude Münchens",
+  description: "Feuerwehr-Treppenlauf in den Sonnenaufgang",
   eventStatus: "https://schema.org/EventScheduled",
   eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
   organizer: {
