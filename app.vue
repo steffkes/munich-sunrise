@@ -67,7 +67,7 @@ useHead({
       style="
         background-image: url(/images/hero.jpg);
         background-size: cover;
-        background-position: 65% 50%;
+        background-position: 62% 50%;
         min-height: 50vh;
       "
     >
@@ -97,15 +97,14 @@ useHead({
       /></a>
 
       <div class="my-6 px-6">
-        <h1 class="title">Munich Sunrise</h1>
-        <p class="subtitle">Highlight Towers München</p>
+        <div class="content">
+          <h1 class="title">Munich Sunrise</h1>
+          <p class="subtitle mb-6">Highlight Towers München</p>
 
-        <div class="content my-6">
           <p>
-            Feuerwehr-Treppenlauf in den Sonnenaufgang? Alles komplett verglast
-            - angefangen bei den Toiletten, natürlich auch die Treppenhäuser und
-            insbesondere der Zielbereich im 32. Stockwerk .. mit einem
-            grandiosen Ausblick über München!
+            Feuerwehr-Treppenlauf in den Sonnenaufgang. 32 Stockwerke. Alles
+            Glas. Treppenhäuser, Zielbereich – ja, auch die Toiletten. Start,
+            Stufen, Ziel. Oben dann: München. Komplett. Ohne Filter.
           </p>
 
           <p>Hast du Bock drauf? Dann jetzt direkt zuschlagen und kaufen:</p>
@@ -119,8 +118,32 @@ useHead({
           </p>
 
           <p>
-            <strong>Du hast keinerlei Risiko</strong> - falls der Wettkampf
-            nicht stattfindet, bekommst du das komplette Geld zurück.
+            <strong>Kein Risiko.</strong> Findet der Wettkampf nicht statt,
+            gibt’s dein Geld vollständig zurück. Passt dir der Termin nicht,
+            nimmst du den Startplatz einfach in einem der Folgejahre.
+          </p>
+
+          <h2>Unsere Tickets</h2>
+
+          <p>
+            <span class="tag"><strong class="mr-1">79€</strong> Früh dran</span>
+            Für alle, die nicht erst Tabellen vergleichen und Wetterberichte
+            lesen. Anmelden, vorbereiten, laufen.
+            <strong>Limitiert auf 50 Plätze – danach ist halt vorbei.</strong>
+          </p>
+          <p>
+            <span class="tag"
+              ><strong class="mr-1">89€</strong> Passt scho</span
+            >
+            Für alle, die sich noch denken: „Ja, klingt gut … muss ich mir aber
+            erst noch überlegen.“ München lohnt sich. Der Ausblick auch. Und die
+            Stufen laufen nicht von selbst weg.
+          </p>
+          <p>
+            <span class="tag"><strong class="mr-1">99€</strong> Spät dran</span>
+            Für alle, die zu lange gezögert haben und jetzt merken, dass sie
+            doch dabei sein wollen. Kurz überlegen, buchen, starten. Reicht dann
+            auch.
           </p>
         </div>
       </div>
