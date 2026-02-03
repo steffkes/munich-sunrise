@@ -5,4 +5,5 @@ export default defineNuxtConfig({
   features: {
     inlineStyles: false,
   },
+  extends: ["github:steffkes/competitions-layer"],
 });
