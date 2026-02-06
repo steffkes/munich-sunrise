@@ -61,17 +61,35 @@ useHead({
 
 <template>
   <div class="columns is-gapless" style="min-height: 100vh">
-    <!-- min-height on column needed for mobile -->
-    <div
-      class="column is-5"
-      style="
-        background-image: url(/images/hero.jpg);
-        background-size: cover;
-        background-position: 62% 50%;
-        min-height: 50vh;
-      "
-    >
-      &nbsp;
+    <div style="position: relative" class="column is-5">
+      <!-- min-height on column needed for mobile -->
+      <!-- @ mobile -->
+      <div
+        class="is-hidden-tablet"
+        style="
+          background-image: url(/images/hero.jpg);
+          background-size: cover;
+          background-position: 0% 50%;
+          min-height: 50vh;
+        "
+      >
+        &nbsp;
+      </div>
+
+      <!-- @ desktop -->
+      <div
+        class="is-hidden-touch"
+        style="
+          position: fixed;
+          width: 42%;
+          height: 100%;
+          background-image: url(/images/hero.jpg);
+          background-size: cover;
+          background-position: 75% 0%;
+        "
+      >
+        &nbsp;
+      </div>
     </div>
 
     <div class="column">
