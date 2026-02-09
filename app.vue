@@ -130,7 +130,7 @@ useHead({
           <p>
             <a
               href="https://www.paypal.com/ncp/payment/M78QDRMBT5752"
-              class="button is-primary is-block"
+              class="button is-success is-block"
               >Ich will mein Early-Bird-Ticket haben!</a
             >
           </p>
