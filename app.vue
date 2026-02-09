@@ -146,6 +146,10 @@ useHead({
 
           <h2>Unsere Tickets</h2>
 
+          <p class="has-text-grey-light">
+            Preise jeweils für euer Team à zwei Personen
+          </p>
+
           <p>
             <span class="tag"><strong class="mr-1">79€</strong> Früh dran</span>
             Für alle, die nicht erst Tabellen vergleichen und Wetterberichte
