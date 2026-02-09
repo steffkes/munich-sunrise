@@ -3,6 +3,8 @@ export const event = {
   "@type": "SportsEvent",
   name: "Munich Sunrise",
   description: "Feuerwehr-Treppenlauf in den Sonnenaufgang",
+  startDate: "2026-07-25",
+  endDate: "2026-07-25",
   eventStatus: "https://schema.org/EventScheduled",
   eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
   organizer: {

@@ -5,7 +5,8 @@ const activeModal = ref(false);
 
 useSeoMeta({
   ogImage: "/og.jpg",
-  description: event.description,
+  description:
+    formattedDate + " @ " + event.location.name + ": " + event.description,
 });
 
 useHead({
@@ -116,8 +117,10 @@ useHead({
 
       <div class="my-6 px-6">
         <div class="content">
-          <h1 class="title">Munich Sunrise</h1>
-          <p class="subtitle mb-6">Highlight Towers München</p>
+          <h1 class="title">{{ event.name }}</h1>
+          <p class="subtitle mb-6">
+            {{ formattedDate }} @ {{ event.location.name }}
+          </p>
 
           <p>
             Feuerwehr-Treppenlauf in den Sonnenaufgang. 32 Stockwerke. Alles
