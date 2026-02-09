@@ -168,7 +168,7 @@ useHead({
             <span class="tag"><strong class="mr-1">99€</strong> Spät dran</span>
             Für alle, die zu lange gezögert haben und jetzt merken, dass sie
             doch dabei sein wollen. Kurz überlegen, buchen, starten. Reicht dann
-            auch.
+            auch. <strong>Ab 25.06.26</strong>
           </p>
 
           <h2>Unser Wettkampf</h2>
