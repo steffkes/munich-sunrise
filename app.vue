@@ -23,7 +23,7 @@ useHead({
     {
       src: "/pl/script.js",
       "data-api": "/pl/event",
-      "data-domain": "munich-sunrise.gelungen.es",
+      "data-domain": "munich-sunrise.de",
       defer: true,
     },
     {
