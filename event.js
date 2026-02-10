@@ -10,7 +10,7 @@ export const event = {
   organizer: {
     "@type": "Person",
     name: "Stefan Matheis",
-    email: "mailto:stefan@mathe.is",
+    email: "mailto:stefan.matheis@munich-sunrise.de",
     telephone: "+49 160 970 48 114",
   },
   location: {
@@ -31,9 +31,9 @@ export const event = {
     },
   },
   image: [
-    "https://munich-sunrise.gelungen.es/images/1x1.jpg",
-    "https://munich-sunrise.gelungen.es/images/4x3.jpg",
-    "https://munich-sunrise.gelungen.es/images/16x9.jpg",
+    "https://www.munich-sunrise.de/images/1x1.jpg",
+    "https://www.munich-sunrise.de/images/4x3.jpg",
+    "https://www.munich-sunrise.de/images/16x9.jpg",
   ],
 };
 

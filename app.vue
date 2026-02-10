@@ -191,7 +191,7 @@ useHead({
         </div>
       </div>
 
-      <CompetitionsFooter mail="stefan@gelungen.es" />
+      <CompetitionsFooter :event="event" />
     </div>
   </div>
 </template>
