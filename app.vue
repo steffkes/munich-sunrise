@@ -154,6 +154,41 @@ useHead({
               :class="{ 'is-selected': route.path == '/' }"
               >Startseite</a
             >
+
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a
+                class="navbar-link"
+                :class="{ 'is-selected': route.path.startsWith('/wettkampf') }"
+              >
+                Wettkampf
+              </a>
+
+              <div class="navbar-dropdown">
+                <a
+                  href="/wettkampf/konzept"
+                  :class="{ 'is-selected': route.path == '/wettkampf/konzept' }"
+                  class="navbar-item"
+                >
+                  Konzept
+                </a>
+                <a
+                  href="/wettkampf/zeitplan"
+                  :class="{
+                    'is-selected': route.path == '/wettkampf/zeitplan',
+                  }"
+                  class="navbar-item"
+                >
+                  Zeitplan
+                </a>
+                <a
+                  href="/wettkampf/regeln"
+                  :class="{ 'is-selected': route.path == '/wettkampf/regeln' }"
+                  class="navbar-item"
+                >
+                  Regeln
+                </a>
+              </div>
+            </div>
           </div>
 
           <div class="navbar-end">

@@ -1,7 +1,7 @@
 <template>
   <div class="my-6 px-6">
     <div class="content">
-      <h2>Unsere Tickets</h2>
+      <h2>Die Tickets</h2>
 
       <p class="has-text-grey-light">
         Preise jeweils für euer Team à zwei Personen

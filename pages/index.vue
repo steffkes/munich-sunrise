@@ -7,7 +7,7 @@
         Ziel. Oben dann: München. Komplett. Ohne Filter.
       </p>
 
-      <h2>Unser Wettkampf</h2>
+      <h2>Der Wettkampf</h2>
 
       <p>
         Was in Berlin geht, geht auch in München. Gelaufen wird ein
