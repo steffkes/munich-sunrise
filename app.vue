@@ -12,6 +12,8 @@ useSeoMeta({
 const activeNavbar = ref(false);
 const toggleNavbar = () => (activeNavbar.value = !activeNavbar.value);
 
+const route = useRoute();
+
 useHead({
   titleTemplate: (pageTitle) =>
     [pageTitle, event.name].filter(Boolean).join(" | "),
@@ -146,7 +148,28 @@ useHead({
 
         <div class="navbar-menu" :class="{ 'is-active': activeNavbar }">
           <div class="navbar-start">
-            <a href="/" class="navbar-item is-selected">Startseite</a>
+            <a
+              href="/"
+              class="navbar-item"
+              :class="{ 'is-selected': route.path == '/' }"
+              >Startseite</a
+            >
+          </div>
+
+          <div class="navbar-end">
+            <div class="navbar-item">
+              <div class="buttons">
+                <a
+                  href="/anmeldung"
+                  class="button"
+                  :class="[
+                    route.path == '/anmeldung' ? 'is-light' : 'is-success',
+                  ]"
+                >
+                  Anmeldung 2026
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </nav>
