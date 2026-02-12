@@ -126,7 +126,7 @@ useHead({
 
       <NuxtPage />
 
-      <CompetitionsFooter :event="event" />
+      <CompetitionsFooter :event="event" class="px-6" />
     </div>
   </div>
 </template>
