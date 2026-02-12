@@ -9,6 +9,9 @@ useSeoMeta({
     formattedDate + " @ " + event.location.name + ": " + event.description,
 });
 
+const activeNavbar = ref(false);
+const toggleNavbar = () => (activeNavbar.value = !activeNavbar.value);
+
 useHead({
   titleTemplate: (pageTitle) =>
     [pageTitle, event.name].filter(Boolean).join(" | "),
@@ -123,6 +126,30 @@ useHead({
           </p>
         </div>
       </div>
+
+      <nav
+        class="navbar px-6 is-transparent is-light"
+        style="background-color: transparent"
+      >
+        <div class="navbar-brand">
+          <a
+            class="navbar-burger"
+            :class="{ 'is-active': activeNavbar }"
+            @click="toggleNavbar"
+          >
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+
+        <div class="navbar-menu" :class="{ 'is-active': activeNavbar }">
+          <div class="navbar-start">
+            <a href="/" class="navbar-item is-selected">Startseite</a>
+          </div>
+        </div>
+      </nav>
 
       <NuxtPage />
 
