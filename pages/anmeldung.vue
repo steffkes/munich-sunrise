@@ -37,9 +37,12 @@
       </p>
 
       <p>
-        <strong>Kein Risiko.</strong> Findet der Wettkampf nicht statt, gibt’s
-        dein Geld vollständig zurück. Passt dir der Termin nicht, nimmst du den
-        Startplatz einfach in einem der Folgejahre.
+        <strong>Der frühe Vogel fängt den Wurm.</strong>
+        Wie funktioniert's? Ganz einfach: Du kaufst dir über Paypal einen
+        Gutschein. Ein Gutschein entspricht einem Team, also zwei Personen. Den
+        Gutschein löst du anschließend bei der Registrierung ein. Das Datum
+        passt dieses Jahr nicht? Macht nichts. Der Gutschein ist auch nächstes
+        Jahr noch gültig.
       </p>
     </div>
   </div>
