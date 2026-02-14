@@ -211,7 +211,17 @@ useHead({
 
       <slot />
 
-      <CompetitionsFooter :event="event" class="px-6" />
+      <footer class="footer px-6 pb-0">
+        <div class="container is-max-desktop">
+          <p>
+            Mit sportlicher Unterstützung der
+            <a href="//www.highlight-towers.de" style="color: inherit"
+              >Highlight Towers München</a
+            >.
+          </p>
+        </div>
+      </footer>
+      <CompetitionsFooter :event="event" class="px-6 pb-6" />
     </div>
   </div>
 </template>
