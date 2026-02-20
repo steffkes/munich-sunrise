@@ -1,6 +1,7 @@
 export const event = {
   "@context": "https://schema.org",
   "@type": "SportsEvent",
+  url: "http://www.munich-sunrise.de",
   name: "Munich Sunrise",
   description: "Feuerwehr-Treppenlauf in den Sonnenaufgang",
   startDate: "2026-07-25",
