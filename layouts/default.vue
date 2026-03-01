@@ -101,7 +101,7 @@ useHead({
         <div class="modal-background"></div>
         <div class="modal-content">
           <p class="image">
-            <img src="/qr-code.svg" />
+            <img :src="'/qr-code.svg'" />
           </p>
         </div>
       </div>
@@ -110,7 +110,7 @@ useHead({
         @click="activeModal = true"
         style="position: fixed; right: 0px; bottom: 0px"
         ><img
-          src="/qr-code.svg"
+          :src="'/qr-code.svg'"
           style="opacity: 0.1; height: 20px; margin: 10px"
       /></a>
 
