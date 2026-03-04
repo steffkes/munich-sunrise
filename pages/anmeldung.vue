@@ -1,3 +1,9 @@
+<script setup>
+useSeoMeta({
+  title: "Anmeldung",
+});
+</script>
+
 <template>
   <div class="my-6 px-6">
     <div class="content">
