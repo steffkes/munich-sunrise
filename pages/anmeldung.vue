@@ -7,49 +7,18 @@ useSeoMeta({
 <template>
   <div class="my-6 px-6">
     <div class="content">
-      <h2>Die Tickets</h2>
-
-      <p class="has-text-grey-light">
-        Preise jeweils für euer Team à zwei Personen
-      </p>
-
       <p>
-        <span class="tag"><strong class="mr-1">79€</strong> Früh dran</span>
-        Für alle, die nicht erst Tabellen vergleichen und Wetterberichte lesen.
-        Anmelden, vorbereiten, laufen.
-        <strong>Limitiert auf 50 Plätze – danach ist halt vorbei.</strong>
-      </p>
-      <p>
-        <span class="tag"><strong class="mr-1">89€</strong> Passt scho</span>
-        Für alle, die sich noch denken: „Ja, klingt gut … muss ich mir aber erst
-        noch überlegen.“ München lohnt sich. Der Ausblick auch. Und die Stufen
-        laufen nicht von selbst weg.
-      </p>
-      <p>
-        <span class="tag"><strong class="mr-1">99€</strong> Spät dran</span>
-        Für alle, die zu lange gezögert haben und jetzt merken, dass sie doch
-        dabei sein wollen. Kurz überlegen, buchen, starten. Reicht dann auch.
-        <strong>Ab 25.06.26</strong>
+        Bitte beachtet
+        <NuxtLink href="/wettkampf/tickets">die Ticket-Preise</NuxtLink>
+        als auch
+        <NuxtLink href="/wettkampf/regeln">die Wettkampf-Regeln</NuxtLink>.
       </p>
 
-      <p>Hast du Bock drauf? Dann jetzt direkt zuschlagen und kaufen:</p>
-
-      <p>
-        <a
-          href="https://www.paypal.com/ncp/payment/M78QDRMBT5752"
-          class="button is-success is-block"
-          >Ich will unser Early-Bird-Ticket haben!</a
-        >
-      </p>
-
-      <p>
-        <strong>Der frühe Vogel fängt den Wurm.</strong>
-        Wie funktioniert's? Ganz einfach: Du kaufst dir über Paypal einen
-        Gutschein. Ein Gutschein entspricht einem Team, also zwei Personen. Den
-        Gutschein löst du anschließend bei der Registrierung ein. Das Datum
-        passt dieses Jahr nicht? Macht nichts. Der Gutschein ist auch nächstes
-        Jahr noch gültig.
-      </p>
+      <iframe
+        src="https://events.raceresult.com/registrations/?event=386070&n=Einzel-Anmeldung&k=lOvTMKQARkrW"
+        width="100%"
+        height="1000"
+      ></iframe>
     </div>
   </div>
 </template>

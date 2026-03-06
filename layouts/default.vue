@@ -159,6 +159,13 @@ useHead({
 
               <div class="navbar-dropdown">
                 <a
+                  href="/wettkampf/tickets"
+                  :class="{ 'is-selected': route.path == '/wettkampf/tickets' }"
+                  class="navbar-item"
+                >
+                  Tickets
+                </a>
+                <a
                   href="/wettkampf/konzept"
                   :class="{ 'is-selected': route.path == '/wettkampf/konzept' }"
                   class="navbar-item"
