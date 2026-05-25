@@ -22,7 +22,10 @@ useSeoMeta({
         <li>
           <span class="tag is-light">05:30-06:00</span> Ausgabe der Startnummern
         </li>
-        <li><span class="tag is-light">06:30</span> Startschuss erstes Team</li>
+        <li>
+          <span class="tag is-light">06:30</span> Startschuss erstes Team
+          (Anschließend ein Team alle 30 Sekunden)
+        </li>
       </ul>
 
       <p class="mt-6">
