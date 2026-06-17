@@ -212,14 +212,11 @@ useHead({
 
       <slot />
 
-      <div class="px-6">
-        <p class="has-text-right">
-          <a href="/impressum" class="has-text-grey-light">Impressum</a>
-        </p>
-      </div>
-
-      <footer class="footer px-6 pb-0">
+      <footer class="px-6 py-0">
         <div class="container is-max-desktop">
+          <p class="has-text-right">
+            <a href="/impressum" class="has-text-grey-light">Impressum</a>
+          </p>
           <p>
             Mit sportlicher Unterstützung der
             <a href="//www.highlight-towers.de" style="color: inherit"
