@@ -213,15 +213,16 @@ useHead({
       <slot />
 
       <footer class="px-6 py-0">
+        <div class="content">
+          <h2>Die Partner</h2>
+          <p>Vielen Dank für eure sportliche Unterstützung!</p>
+
+          <PartnerGrid class="mt-2" />
+        </div>
+
         <div class="container is-max-desktop">
           <p class="has-text-right">
             <a href="/impressum" class="has-text-grey-light">Impressum</a>
-          </p>
-          <p>
-            Mit sportlicher Unterstützung der
-            <a href="//www.highlight-towers.de" style="color: inherit"
-              >Highlight Towers München</a
-            >.
           </p>
         </div>
       </footer>
