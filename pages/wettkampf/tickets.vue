@@ -23,22 +23,23 @@ useSeoMeta({
         >
       </p>
 
+      <p>
+        <span class="tag is-success"
+          ><strong class="mr-1">89€</strong> Passt scho</span
+        >
+        Für alle, die sich noch denken: „Ja, klingt gut … muss ich mir aber erst
+        noch überlegen.“ München lohnt sich. Der Ausblick auch. Und die Stufen
+        laufen nicht von selbst weg.
+      </p>
+
       <div class="notification is-success is-light">
         <p>
-          <span class="tag is-success"
-            ><strong class="mr-1">89€</strong> Passt scho</span
-          >
-          Für alle, die sich noch denken: „Ja, klingt gut … muss ich mir aber
-          erst noch überlegen.“ München lohnt sich. Der Ausblick auch. Und die
-          Stufen laufen nicht von selbst weg.
+          <span class="tag"><strong class="mr-1">99€</strong> Spät dran</span>
+          Für alle, die zu lange gezögert haben und jetzt merken, dass sie doch
+          dabei sein wollen. Kurz überlegen, buchen, starten. Reicht dann auch.
+          <strong>Ab 25.06.26</strong>
         </p>
       </div>
-      <p>
-        <span class="tag"><strong class="mr-1">99€</strong> Spät dran</span>
-        Für alle, die zu lange gezögert haben und jetzt merken, dass sie doch
-        dabei sein wollen. Kurz überlegen, buchen, starten. Reicht dann auch.
-        <strong>Ab 25.06.26</strong>
-      </p>
     </div>
   </div>
 </template>
