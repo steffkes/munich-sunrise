@@ -23,7 +23,7 @@ useSeoMeta({
         >
       </p>
 
-      <p>
+      <p class="has-text-grey-lighter">
         <span class="tag"><strong class="mr-1">89€</strong> Passt scho</span>
         Für alle, die sich noch denken: „Ja, klingt gut … muss ich mir aber erst
         noch überlegen.“ München lohnt sich. Der Ausblick auch. Und die Stufen
