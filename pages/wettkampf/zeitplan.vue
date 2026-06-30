@@ -10,12 +10,6 @@ useSeoMeta({
     <div class="content">
       <h2>Das Zeitliche</h2>
 
-      <div class="notification">
-        <p>
-          Der Zeitplan ist noch nicht in Stein gemeißelt. Wir arbeiten dran.
-        </p>
-      </div>
-
       <h3>Samstag</h3>
 
       <ul>
