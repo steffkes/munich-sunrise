@@ -31,6 +31,11 @@ useSeoMeta({
         Weißwurst-Frühstück (sofern ihr dieses bei der Anmeldung vorbestellt
         habt).
       </p>
+
+      <p>
+        Ziel-Einlauf, Frühstück & Siegerehrung finden im 32. Stockwerk der
+        Highlight Towers statt.
+      </p>
     </div>
   </div>
 </template>
