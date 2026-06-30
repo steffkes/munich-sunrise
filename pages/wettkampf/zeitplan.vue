@@ -20,6 +20,10 @@ useSeoMeta({
           <span class="tag is-light">06:30</span> Startschuss erstes Team
           (Anschließend ein Team alle 30 Sekunden)
         </li>
+        <li>
+          <span class="tag is-light">~07:30</span> Siegerehrung (Abhängig von
+          der Anzahl der gemeldeten Teams)
+        </li>
       </ul>
 
       <p class="mt-6">
