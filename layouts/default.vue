@@ -166,13 +166,6 @@ useHead({
                   Tickets
                 </a>
                 <a
-                  href="/wettkampf/konzept"
-                  :class="{ 'is-selected': route.path == '/wettkampf/konzept' }"
-                  class="navbar-item"
-                >
-                  Konzept
-                </a>
-                <a
                   href="/wettkampf/zeitplan"
                   :class="{
                     'is-selected': route.path == '/wettkampf/zeitplan',
@@ -180,6 +173,13 @@ useHead({
                   class="navbar-item"
                 >
                   Zeitplan
+                </a>
+                <a
+                  href="/wettkampf/konzept"
+                  :class="{ 'is-selected': route.path == '/wettkampf/konzept' }"
+                  class="navbar-item"
+                >
+                  Konzept
                 </a>
                 <a
                   href="/wettkampf/regeln"
