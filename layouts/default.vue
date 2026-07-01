@@ -175,6 +175,15 @@ useHead({
                   Zeitplan
                 </a>
                 <a
+                  href="/wettkampf/location"
+                  :class="{
+                    'is-selected': route.path == '/wettkampf/location',
+                  }"
+                  class="navbar-item"
+                >
+                  Location
+                </a>
+                <a
                   href="/wettkampf/konzept"
                   :class="{ 'is-selected': route.path == '/wettkampf/konzept' }"
                   class="navbar-item"
