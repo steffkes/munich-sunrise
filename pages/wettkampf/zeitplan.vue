@@ -1,7 +1,7 @@
 <script setup>
 useSeoMeta({
-  title: "Zeitplan / Wettkampf",
-  description: "Was, wann & wo stattfindet",
+  title: "Zeitplan",
+  description: "Wann es losgeht, wann ihr oben seid und alles dazwischen.",
 });
 </script>
 

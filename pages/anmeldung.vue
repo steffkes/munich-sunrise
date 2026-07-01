@@ -1,6 +1,8 @@
 <script setup>
 useSeoMeta({
   title: "Anmeldung",
+  description:
+    "Team anmelden und Startplatz sichern. Den Rest übernehmen eure Beine.",
 });
 </script>
 

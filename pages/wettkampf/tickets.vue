@@ -1,7 +1,8 @@
 <script setup>
 useSeoMeta({
-  title: "Tickets",
-  description: "Was kostet der Spaß?",
+  title: "Tickets & Preise",
+  description:
+    "Alle Ticketphasen und Preise im Überblick. Früh buchen kostet weniger. Die Stockwerke bleiben trotzdem gleich viele.",
 });
 </script>
 

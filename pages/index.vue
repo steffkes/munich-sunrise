@@ -1,3 +1,15 @@
+<script setup>
+useHead({
+  titleTemplate: null, // use entire title as-is
+});
+
+useSeoMeta({
+  title: "Munich Sunrise – Feuerwehr-Treppenlauf in München",
+  description:
+    "Feuerwehr-Treppenlauf in den Highlight Towers München. 32 Stockwerke, Sonnenaufgang und vollständige Einsatzkleidung. Aufzug gibt's auch. Der zählt allerdings nicht.",
+});
+</script>
+
 <template>
   <div class="my-6 px-6">
     <div class="content">

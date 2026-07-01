@@ -2,8 +2,9 @@
 const { event } = await useEvent();
 
 useSeoMeta({
-  title: "Regeln / Wettkampf",
-  description: "Wettkampfregeln & Haftungsausschluß",
+  title: "Regeln",
+  description:
+    "Ein paar Regeln gibt es. Überraschend viele dienen dazu, dass am Ende alle wieder heil unten ankommen.",
 });
 </script>
 

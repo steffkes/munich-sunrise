@@ -1,6 +1,7 @@
 <script setup>
 useSeoMeta({
   title: "Impressum",
+  description: "Wer hinter dem Munich Sunrise steckt und wie ihr uns erreicht.",
 });
 </script>
 

@@ -1,8 +1,8 @@
 <script setup>
 useSeoMeta({
-  title: "Die Location",
+  title: "Highlight Towers München",
   description:
-    "32 Stockwerke. Highlight Towers München. Aufzug gibt's auch – der zählt allerdings nicht.",
+    "32 Stockwerke, voll verglaste Fassade und Blick über München bis zu den Alpen. Der Zieleinlauf befindet sich ganz oben.",
 });
 </script>
 

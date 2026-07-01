@@ -1,9 +1,8 @@
 <script setup>
-const { event } = await useEvent();
-
 useSeoMeta({
-  title: "Konzept / Wettkampf",
-  description: "Wie " + event.name + " funktioniert",
+  title: "Der Wettkampf",
+  description:
+    "Gelaufen wird im Zweiertrupp. Mit oder ohne Atemschutz. Sonnenaufgang inklusive, Morgenmuffel-Startplätze ebenfalls.",
 });
 </script>
 
