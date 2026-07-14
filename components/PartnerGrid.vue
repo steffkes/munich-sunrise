@@ -5,14 +5,19 @@
         <img src="/partner/highlight-towers.svg" class="reduced" />
       </a>
     </div>
-    <div class="column is-4 has-text-centered">
+    <div class="column has-text-centered">
       <a href="//dfeug.de">
         <img src="/partner/dfeug.svg" class="reduced" />
       </a>
     </div>
-    <div class="column is-6 has-text-centered">
+    <div class="column has-text-centered">
       <a href="//signal-iduna.de">
         <img src="/partner/signal-iduna.svg" class="reduced" />
+      </a>
+    </div>
+    <div class="column has-text-centered">
+      <a href="//www.v-markt.de">
+        <img src="/partner/v-markt.svg" />
       </a>
     </div>
   </div>
