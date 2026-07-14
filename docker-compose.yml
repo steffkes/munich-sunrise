@@ -1,3 +1,4 @@
+name: munich-sunrise-website
 services:
   app:
     image: node:23.8.0-alpine3.20
