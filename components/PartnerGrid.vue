@@ -1,23 +1,40 @@
 <template>
   <div class="columns is-multiline is-vcentered as-grid">
+    <div class="column is-4 has-text-centered">
+      <a href="//dfeug.de">
+        <img src="/partner/dfeug.svg" class="reduced" />
+      </a>
+    </div>
+    <div class="column is-4 has-text-centered">
+      <a href="//signal-iduna.de">
+        <img src="/partner/signal-iduna.svg" class="reduced" />
+      </a>
+    </div>
+    <div class="column is-4 has-text-centered">
+      <a href="//www.v-markt.de">
+        <img src="/partner/v-markt.svg" />
+      </a>
+    </div>
     <div class="column is-2 has-text-centered">
       <a href="//www.highlight-towers.de">
         <img src="/partner/highlight-towers.svg" class="reduced" />
       </a>
     </div>
-    <div class="column has-text-centered">
-      <a href="//dfeug.de">
-        <img src="/partner/dfeug.svg" class="reduced" />
+
+    <div class="column is-2 has-text-centered">
+      <a href="//www.most-wohnwert.de">
+        <img src="/partner/most-wohnwert.svg" />
       </a>
     </div>
-    <div class="column has-text-centered">
-      <a href="//signal-iduna.de">
-        <img src="/partner/signal-iduna.svg" class="reduced" />
+    <div class="column is-3 has-text-centered">
+      <a href="//sgk-kaufbeuren.de">
+        <img src="/partner/sgk.jpg" class="reduced" />
       </a>
     </div>
-    <div class="column has-text-centered">
-      <a href="//www.v-markt.de">
-        <img src="/partner/v-markt.svg" />
+
+    <div class="column is-2 has-text-centered">
+      <a href="//www.edeka.de/maerkte/035846/">
+        <img src="/partner/edeka.svg" class="reduced" />
       </a>
     </div>
   </div>
