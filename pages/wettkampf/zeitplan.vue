@@ -26,7 +26,13 @@ useSeoMeta({
         </li>
       </ul>
 
-      <p class="mt-6">
+      <p class="has-text-centered my-5">
+        <a href="//go.munich-sunrise.de/teilnehmer" class="button is-success">
+          Start-Aufstellung 2026
+        </a>
+      </p>
+
+      <p>
         Im Ziel gibt es ein bisschen Sportler-Verpflegung, anschließend euer
         Weißwurst-Frühstück (sofern ihr dieses bei der Anmeldung vorbestellt
         habt).

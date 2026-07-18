@@ -205,8 +205,15 @@ useHead({
             <div class="navbar-item">
               <div class="buttons">
                 <a
+                  href="//go.munich-sunrise.de/teilnehmer"
+                  class="button is-success"
+                >
+                  Teilnehmer 2026
+                </a>
+
+                <a
                   href="/anmeldung"
-                  class="button"
+                  class="button is-outlined"
                   :class="[
                     route.path == '/anmeldung' ? 'is-light' : 'is-success',
                   ]"

@@ -15,6 +15,12 @@ useSeoMeta({
         Preise jeweils für euer Team à zwei Personen
       </p>
 
+      <p class="has-text-centered my-4">
+        <a href="/anmeldung" class="button is-light is-success is-outlined">
+          Anmeldung 2026
+        </a>
+      </p>
+
       <p class="has-text-grey-lighter">
         <span class="tag"><strong class="mr-1">79€</strong> Früh dran</span>
         Für alle, die nicht erst Tabellen vergleichen und Wetterberichte lesen.
@@ -41,6 +47,12 @@ useSeoMeta({
           <strong>Ab 25.06.26</strong>
         </p>
       </div>
+
+      <p class="has-text-centered my-4">
+        <a href="/anmeldung" class="button is-light is-success is-outlined">
+          Anmeldung 2026
+        </a>
+      </p>
     </div>
   </div>
 </template>
