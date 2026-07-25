@@ -11,14 +11,16 @@ useSeoMeta({
     <div class="content">
       <h2>Die Tickets</h2>
 
+      <div class="notification is-info is-light">
+        <p>
+          <strong>War ganz ordentlich.</strong> Danke für die Premiere am
+          25.07.2026 in München. 2027 machen wir das einfach nochmal. Tickets
+          gibt's dann wieder hier.
+        </p>
+      </div>
+
       <p class="has-text-grey-light">
         Preise jeweils für euer Team à zwei Personen
-      </p>
-
-      <p class="has-text-centered my-4">
-        <a href="/anmeldung" class="button is-light is-success is-outlined">
-          Anmeldung 2026
-        </a>
       </p>
 
       <p class="has-text-grey-lighter">
@@ -37,21 +39,11 @@ useSeoMeta({
         laufen nicht von selbst weg.
       </p>
 
-      <div class="notification is-success is-light">
-        <p>
-          <span class="tag is-success"
-            ><strong class="mr-1">99€</strong> Spät dran</span
-          >
-          Für alle, die zu lange gezögert haben und jetzt merken, dass sie doch
-          dabei sein wollen. Kurz überlegen, buchen, starten. Reicht dann auch.
-          <strong>Ab 25.06.26</strong>
-        </p>
-      </div>
-
-      <p class="has-text-centered my-4">
-        <a href="/anmeldung" class="button is-light is-success is-outlined">
-          Anmeldung 2026
-        </a>
+      <p class="has-text-grey-lighter">
+        <span class="tag"><strong class="mr-1">99€</strong> Spät dran</span>
+        Für alle, die zu lange gezögert haben und jetzt merken, dass sie doch
+        dabei sein wollen. Kurz überlegen, buchen, starten. Reicht dann auch.
+        <strong style="color: inherit">Ab 25.06.26</strong>
       </p>
     </div>
   </div>

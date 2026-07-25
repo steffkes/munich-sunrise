@@ -9,6 +9,13 @@ useSeoMeta({
 <template>
   <div class="my-6 px-6">
     <div class="content">
+      <div class="notification is-info is-light">
+        <p>
+          <strong>Zu spät.</strong> Die Anmeldung für 2026 ist geschlossen. 2027
+          öffnen wir sie wieder.
+        </p>
+      </div>
+
       <p>
         Bitte beachtet
         <NuxtLink href="/wettkampf/tickets">die Ticket-Preise</NuxtLink>
