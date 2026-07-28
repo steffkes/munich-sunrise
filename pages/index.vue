@@ -18,7 +18,33 @@ useSeoMeta({
         Treppenhäuser, Zielbereich – ja, auch die Toiletten. Start, Stufen,
         Ziel. Oben dann: München. Komplett. Ohne Filter.
       </p>
+    </div>
 
+    <QuoteElement name="Jasmin" department="FF Seukendorf">
+      <p>Danke es war Mega schön heute! Genau meine Uhrzeit.</p>
+    </QuoteElement>
+
+    <QuoteElement name="Harald" department="FF Kempten">
+      <p>
+        [Die Aufzugfahrt runter] war auch noch so ein Highlight zum Schluss! 👍
+      </p>
+    </QuoteElement>
+
+    <QuoteElement name="Steffi" department="WF Weihenstephan">
+      <p>
+        Eigentlich war mir klar, dass wir dem Schwitzen eh nicht entkommen
+        können, zumindest hatten wir aber dann dabei einen Ausblick 😉
+      </p>
+    </QuoteElement>
+
+    <QuoteElement name="Jörg" department="FF Seukendorf">
+      <p>
+        Übrigens die Location, also das Treppenhaus war super - perfekt zum
+        laufen. 👍🏻
+      </p>
+    </QuoteElement>
+
+    <div class="content">
       <h2>Der Wettkampf</h2>
 
       <p>
